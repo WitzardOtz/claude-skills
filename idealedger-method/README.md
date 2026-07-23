@@ -2,7 +2,7 @@
 
 **A diagnostic founder coach that runs the IdeaLedger startup validation method inside Claude.**
 
-→ [Download skill](https://www.scalablepod.it/ClaudeSkill/) · [More info](https://www.scalablepod.it/learn/)
+→ [Download `idealedger-method.skill`](./idealedger-method.skill) · [More info](https://www.scalablepod.it/learn/)
 
 ---
 
@@ -46,7 +46,7 @@ Founders and aspiring founders who want to:
 - **Starts with Gate 00**: a diagnostic intake before any tool is applied
 - **One question at a time**: never a questionnaire dump
 - **Saves output locally**: produces markdown files on your machine
-- **No account, no API key, no backend**: fully local and private
+- **No account, no API key, no backend**: fully local and private (optional premium add-on below)
 
 ---
 
@@ -65,9 +65,23 @@ The skill activates automatically when you say things like:
 
 ## Install
 
-1. Download the `.skill` file from [scalablepod.it/ClaudeSkill](https://www.scalablepod.it/ClaudeSkill/)
+1. Download [`idealedger-method.skill`](./idealedger-method.skill) from this folder
 2. Open Claude Cowork → Settings → Capabilities → Skills
 3. Drag and drop the file
+
+The base skill is complete and free: everything works locally, no account needed.
+
+---
+
+## Premium — Scalable Intelligence add-on (optional)
+
+The base skill reasons from general knowledge. The **premium add-on** connects it to the
+Scalable Intelligence database: real comparables and benchmarks from ~2,005 mapped European
+startups, used by the market-sizing, competition, GTM, and fundraising tools.
+
+→ Activate your API key at [scalablepod.it/ClaudeSkill](https://www.scalablepod.it/ClaudeSkill/)
+
+Without a key the skill simply proceeds with generic reasoning — nothing breaks.
 
 ---
 
