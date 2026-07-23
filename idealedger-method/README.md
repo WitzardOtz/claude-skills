@@ -1,6 +1,6 @@
-# IdeaLedger Method — Claude Skill
+# IdeaLedger Method — Agent Skill
 
-**A diagnostic founder coach that runs the IdeaLedger startup validation method inside Claude.**
+**A diagnostic founder coach that runs the IdeaLedger startup validation method inside your AI agent — Claude, Codex, or Antigravity.**
 
 → [Download `idealedger-method.skill`](./idealedger-method.skill) · [More info](https://www.scalablepod.it/learn/)
 
@@ -65,12 +65,15 @@ The skill activates automatically when you say things like:
 
 ## Install
 
-1. Download [`idealedger-method.skill`](./idealedger-method.skill) from this folder
-2. Open Claude Cowork → Settings → Capabilities → Skills
-3. Drag and drop the file
+**Claude (Cowork / Code)**
+1. Download [`idealedger-method.skill`](./idealedger-method.skill)
+2. Claude Cowork → Settings → Capabilities → Skills → drag & drop
 
-The base skill is complete and free: everything works locally, no account needed.
+**OpenAI Codex**
+`$skill-installer WitzardOtz/scalable-agent-skills/idealedger-method` — or copy this folder into `~/.codex/skills/`
 
+**Google Antigravity**
+Copy this folder into your workspace's `.agents/skills/` directory.
 ---
 
 ## Premium — Scalable Intelligence add-on (optional)

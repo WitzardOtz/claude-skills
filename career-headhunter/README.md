@@ -1,6 +1,6 @@
-# Career Headhunter — Claude Skill
+# Career Headhunter — Agent Skill
 
-**A rigorous job-search and career-positioning agent built into Claude.**
+**A rigorous job-search and career-positioning agent for Claude, Codex, and Antigravity.**
 
 → [Download `career-headhunter.skill`](./career-headhunter.skill)
 
@@ -60,10 +60,15 @@ Tailored cover letters, CV alignment suggestions, interview prep questions, and 
 
 ## Install
 
+**Claude (Cowork / Code)**
 1. Download [`career-headhunter.skill`](./career-headhunter.skill)
-2. Open Claude Cowork → Settings → Capabilities → Skills
-3. Drag and drop the file
+2. Claude Cowork → Settings → Capabilities → Skills → drag & drop
 
+**OpenAI Codex**
+`$skill-installer WitzardOtz/scalable-agent-skills/career-headhunter` — or copy this folder into `~/.codex/skills/`
+
+**Google Antigravity**
+Copy this folder into your workspace's `.agents/skills/` directory.
 ---
 
 → Made by [Witzard of Otz](https://github.com/WitzardOtz) · [scalablepod.it](https://www.scalablepod.it)

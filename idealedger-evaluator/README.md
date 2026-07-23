@@ -1,4 +1,4 @@
-# IdeaLedger Evaluator — Claude Skill
+# IdeaLedger Evaluator — Agent Skill
 
 **A structured risk-diagnosis skill for angels, scouts, and accelerators evaluating early-stage startups.**
 
@@ -67,10 +67,15 @@ The skill asks clarifying questions one at a time, then produces the diagnosis.
 
 ## Install
 
+**Claude (Cowork / Code)**
 1. Download [`idealedger-evaluator.skill`](./idealedger-evaluator.skill)
-2. Open Claude Cowork → Settings → Capabilities → Skills
-3. Drag and drop the file
+2. Claude Cowork → Settings → Capabilities → Skills → drag & drop
 
+**OpenAI Codex**
+`$skill-installer WitzardOtz/scalable-agent-skills/idealedger-evaluator` — or copy this folder into `~/.codex/skills/`
+
+**Google Antigravity**
+Copy this folder into your workspace's `.agents/skills/` directory.
 ---
 
 ## Premium — Scalable Intelligence add-on (optional)
