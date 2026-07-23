@@ -79,7 +79,11 @@ The base skill reasons from general knowledge. The **premium add-on** connects i
 Scalable Intelligence database: real comparables and benchmarks from ~2,005 mapped European
 startups, used by the market-sizing, competition, GTM, and fundraising tools.
 
-→ Activate your API key at [scalablepod.it/ClaudeSkill](https://www.scalablepod.it/ClaudeSkill/)
+**How to activate — 3 steps:**
+
+1. Get your key at [scalablepod.it/ClaudeSkill](https://www.scalablepod.it/ClaudeSkill/) (enter your email, key issued instantly)
+2. Paste this message in a Claude chat: `Attiva la chiave Scalable: <your-key>`
+3. Done — the skill saves the key on your machine and reuses it in future sessions
 
 Without a key the skill simply proceeds with generic reasoning — nothing breaks.
 
