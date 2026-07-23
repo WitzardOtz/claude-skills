@@ -1,0 +1,4 @@
+# Optional Codex/OpenAI skill metadata.
+# Keep this file minimal. The authoritative behavior is in SKILL.md and AGENTS.md.
+name: career-headhunter
+description: Agentic career headhunter workspace for candidate profiling, job search, fit scoring, shortlisting, application support, and feedback loops.

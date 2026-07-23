@@ -1,0 +1,12 @@
+# 12 — Open Innovation Fit
+- Corporate need:
+- Startup capability:
+- Current use case:
+- Possible corporate use cases:
+- Integration complexity:
+- Procurement/compliance friction:
+- Pilotability:
+- Strategic relevance:
+- Risk:
+- Suggested pilot:
+- Decision: reject | monitor | intro call | pilot candidate | strategic partnership candidate

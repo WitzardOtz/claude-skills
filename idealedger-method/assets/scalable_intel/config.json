@@ -1,0 +1,4 @@
+{
+  "api_url": "https://scalable-intelligence-api.scalablepod.workers.dev",
+  "note": "API key NON qui: usa la variabile d'ambiente SCALABLE_API_KEY o il file ~/.scalable_api_key."
+}

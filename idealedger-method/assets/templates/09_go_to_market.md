@@ -1,0 +1,11 @@
+# 09 — Go-to-Market Strategy  `Sticker: <GTM_IPOTESI/GTM_CANALE_PRIORITARIO/...>`
+- **Segmento prioritario:** <...>
+- **Canale iniziale:** <...>
+- **Sales motion (self-serve/inbound/sales-led):** <...>
+- **Messaggio:** <...>
+- **Offerta iniziale:** <...>
+- **Proof points:** <...>
+- **Esperimenti GTM:** <...>
+- **Metriche GTM:** <...>
+- **Rischi:** <...>
+- **Prossime azioni:** <...>

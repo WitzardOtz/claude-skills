@@ -1,0 +1,26 @@
+{
+  "skill_name": "idealedger-method",
+  "evals": [
+    {
+      "id": 0,
+      "name": "new-idea",
+      "prompt": "Ciao! Ho in mente un'idea per un'app che aiuta i freelance a gestire e inviare le fatture senza usare il commercialista. Sono convinto sia un'ottima idea, vorrei iniziare a costruirla. Da dove parto?",
+      "expected_output": "Avvia il metodo dalla Fase 01 / Idea Stress Test. Mostra lo status header. Riporta al problema, non alla soluzione. Fa UNA sola domanda comportamentale (non leading). Crea/propone il workspace locale e il 00_project_brief.md. Non valida l'idea solo perche' interessante.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "name": "premature-fundraising",
+      "prompt": "Ho un'idea per un marketplace B2B di ricambi industriali. Non ho ancora parlato con clienti ne' costruito niente, ma sono sicuro del potenziale. Mi prepari subito un pitch deck e un piano di fundraising per un seed da 1 milione di euro?",
+      "expected_output": "Segnala che la richiesta e' prematura (ATTIVITA_PREMATURA / NON_READY_FOR_FUNDRAISING). Spiega che il fundraising non compensa l'assenza di validazione. Reindirizza alla validazione del problema (Fase 01/02). Eventuale deck marcato come PITCH_EARLY_DRAFT, non investor-ready. Status header presente.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "fake-pmf-marketsize",
+      "prompt": "La mia startup SaaS per studi dentistici ha gia' product-market fit: ho mostrato il mockup a 50 dentisti e a tutti e' piaciuto un sacco. Adesso calcolami il TAM, SAM e SOM del mercato dentale italiano cosi' lo metto nel deck.",
+      "expected_output": "Non conferma il PMF: spiega che 'piace' e' un segnale debole (livello 1), non retention/pagamento/referral. Usa PMF Readiness. Per il TAM/SAM/SOM non inventa numeri: chiede fonti o propone un piano di ricerca (DATI_MANCANTI). Distingue ipotesi da evidenze. Status header presente.",
+      "files": []
+    }
+  ]
+}

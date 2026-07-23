@@ -1,0 +1,11 @@
+# 08 — Team / Execution Fit
+- **Team profile:** <...>
+- **Team-capability fit:** <...>
+- **Team-market fit:** <...>
+- **Team-GTM fit:** <...>
+- **Team-stage fit:** <...>
+- **Founder-market fit reale o dichiarato?** <...>
+- **Profili mancanti / gaps:** <...>
+- **Può gestire enterprise sales/procurement/compliance/partnership se centrali?** <...>
+- **Verdetto:** team forte/mercato sbagliato · tecnico forte/GTM debole · commerciale forte/capability debole · founder-market fit credibile · incompleto per la fase · execution risk alto · team-stage fit buono
+- **Sticker:** TEAM_FIT_FORTE / TEAM_GTM_GAP / ...

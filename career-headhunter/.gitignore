@@ -1,0 +1,4 @@
+# Candidate-specific workspace files may contain private information.
+candidate_workspace/
+*.tmp
+.DS_Store
