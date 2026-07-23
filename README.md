@@ -35,9 +35,21 @@ The two startup skills are built on **IdeaLedger**, a validation method develope
 
 > *"Is this startup solving a real problem — for real people — with the right team and capability?"*
 
-The method runs across 5 phases and 15 diagnostic tools, from idea clarification to fundraising readiness. The skills are the **light, local version**: no account required, no API key, no backend. All output files stay on your machine.
+The method runs across 5 phases and 15 diagnostic tools, from idea clarification to fundraising readiness. The skills are the **light, local version**: no account, no backend, all output files stay on your machine. An optional premium add-on (below) connects the two IdeaLedger skills to real startup data.
 
 More at [scalablepod.it/learn](https://www.scalablepod.it/learn/)
+
+---
+
+## Free vs Premium (IdeaLedger skills only)
+
+| | Free (this repo) | Premium add-on |
+|---|---|---|
+| Full method, all tools | ✅ | ✅ |
+| Local markdown dossier | ✅ | ✅ |
+| Real comparables & benchmarks (~2,005 EU startups) | — | ✅ |
+
+**Premium in 3 steps:** get a key at [scalablepod.it/ClaudeSkill](https://www.scalablepod.it/ClaudeSkill/) → paste `Attiva la chiave Scalable: <your-key>` in a Claude chat → the skill saves and reuses it automatically. No key? Everything still works with generic reasoning.
 
 ---
 
