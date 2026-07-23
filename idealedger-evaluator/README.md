@@ -73,6 +73,18 @@ The skill asks clarifying questions one at a time, then produces the diagnosis.
 
 ---
 
+## Premium — Scalable Intelligence add-on (optional)
+
+The base skill is complete and free. The **premium add-on** connects it to the Scalable
+Intelligence database: real comparables and benchmarks from ~2,005 mapped European startups,
+used by the PMF, market-sizing, competition, GTM, and replication-risk tools.
+
+→ Activate your API key at [scalablepod.it/ClaudeSkill](https://www.scalablepod.it/ClaudeSkill/)
+
+Without a key the skill simply proceeds with generic reasoning — nothing breaks.
+
+---
+
 ## Part of the IdeaLedger family
 
 | Skill | Use when |
